@@ -1,0 +1,30 @@
+﻿kotlet_jedzenie
+skakanka_zabawka
+rower_transport
+skrzypce_instrument
+wodospad_natura
+fortepian_instrument
+zszywacz_artykuł biurowy
+klatka schodowa_w bloku
+raz na wozie raz pod wozem_przysłowie
+z pustego i salomon nie naleje_przysłowie
+za mundurem panny sznurem_przysłowie
+zgoda buduje niezgoda rujnuje_przysłowie
+w zdrowym ciele zdrowy duch_przysłowie
+neptun_planeta
+herbata_w filiżance
+mickiewicz_rywal słowackiego
+kochanowski_autor trenów
+mucha_owad
+żaba_płaz
+delfin_ssak
+chomik_domowy gryzoń
+jazz_gatunek muzyczny
+elektryczna_gitara
+akustyczna_gitara
+klasyczna_gitara
+rock_gatunek muzyczny
+pop_gatunek muzyczny
+disco polo_gatunek muzyczny
+chopin_pianista
+batat_czerwony ziemniak

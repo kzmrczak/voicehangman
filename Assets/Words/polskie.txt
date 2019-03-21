@@ -1,0 +1,9 @@
+﻿kotlet_jedzenie
+skakanka_zabawka
+rower_transport
+skrzypce_instrument
+wodospad_natura
+fortepian_instrument
+zszywacz_artykuł biurowy
+klatka schodowa_w bloku
+raz pod wozem raz na wozie_przysłowie
